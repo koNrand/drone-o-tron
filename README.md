@@ -7,6 +7,7 @@ Die Pre-Versionen bestehen aus der Simulation in LTSpice und dem Testaufbau auf 
 
 Die voll funktionsfähige Platine lässt sich für den eigenen Gebrauch ab der ersten Hauptversion in Form von .gerber Dateien und dem KiCad-Projekt finden. Die Platine lässt sich damit dann bei PCB-Produzenten wie JLCPCB bestellen. Eine interaktive BOM (Bill of Material) in Form einer .html Datei ist auch vorhanden, sodass die benötigen Bauteile auch keine Hürde darstellen. Mögliche Händler hier sind LCSC, (zugehörig zu JLCPCB, einfachste Lösung) Mouser, Reichelt, TME, uvm.
 
+-----------------------------------------------------
 
 ENG:
 The Drone-o-Tron is a monophonic mini synthesizer with a ribbon keyboard controlled by a mono audio cable. Inspiration for this is the Monotron from Korg or the Pocket Operator from Teenage Engineering. The synthesizer fits on a single, relatively small circuit board and is powered by two AAA batteries. In the first tests it was possible to create mainly drone sounds, but also tonal melodies like on a Monotron. Hence the name :-)
