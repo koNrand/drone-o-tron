@@ -7,7 +7,8 @@ Die Pre-Versionen bestehen aus der Simulation in LTSpice und dem Testaufbau auf 
 
 Die voll funktionsfähige Platine lässt sich für den eigenen Gebrauch ab der ersten Hauptversion in Form von .gerber Dateien und dem KiCad-Projekt finden. Die Platine lässt sich damit dann bei PCB-Produzenten wie JLCPCB bestellen. Eine interaktive BOM (Bill of Material) in Form einer .html Datei ist auch vorhanden, sodass die benötigen Bauteile auch keine Hürde darstellen. Mögliche Händler hier sind LCSC, (zugehörig zu JLCPCB, einfachste Lösung) Mouser, Reichelt, TME, uvm.
 
-:Achtung: Mit jegllicher Änderung am Schaltplan oder dem Boarddesign erlischt 
+##Achtung
+Mit jegllicher Änderung am Schaltplan oder dem Boarddesign erlischt 
 die Nutzungserlaubnis der Board-Artworks, meines Logos sowie der Verwendung meiner
 Referenzen. Eine Nennung des Originalurhebers ist jedoch unbedingt erwünscht
 und entsprechend zu kennzeichnen. Eine Veröffentlichung der veränderten Schaltung
@@ -27,7 +28,8 @@ The pre-versions consist of the simulation in LTSpice and the test setup on the 
 
 The fully functional board can be found for your own use from the first major version in the form of .gerber files and the KiCad project. The PCB can then be ordered from PCB producers like JLCPCB. An interactive BOM (Bill of Material) in the form of a .html file is also available, so the required components are also no hurdle. Possible distributors here are LCSC, (belonging to JLCPCB, easiest solution) Mouser, Reichelt, TME, and many more.
 
-:Attention: With any change of the schematic or the board design the
+##Attention
+With any change of the schematic or the board design the
 permission to use the board artwork, my logo and my references, vanishes.
 A naming of the original author is however absolutely desired
 and must be marked accordingly. A publication of the changed circuit
