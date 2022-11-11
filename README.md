@@ -58,4 +58,4 @@ commercial use is excluded. Everything freely after the slogan: Fair use only! ;
 
 More information at: https://creativecommons.org
 
-Open hardware FTW <3
+Open hardware FTW <33
