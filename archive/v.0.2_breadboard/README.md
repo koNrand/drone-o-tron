@@ -1,4 +1,4 @@
-# *Drone o Tron*
+# *Drone o Tron* v.0.2
 
 ## DE:
 Der ***Drone o Tron*** (DoT) ist einstimmiger Minisynthesizer mit Ribbonklaviatur, welche über ein Monoaudiokabel gesteuert wird. Inspiration hierfür sind der [Monotron]((https://www.korg.com/de/products/dj/monotron/index.php)) von Korg oder die [Pocket Operator](https://teenage.engineering/products/po) von Teenage Engineering. Der Synthesizer soll auf eine einzige, handliche Platine passen und mit zwei AAA-Batterien betrieben werden. Außerdem soll es einige einstellbare Effekte und Filter geben, über welche der Sound verändert werden kann.
