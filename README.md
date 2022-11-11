@@ -37,7 +37,7 @@ Steps in Project Management:
 - [x] Collect ideas, research, simulation
 - [ ] breadboard construction
  
-### Pegboard construction
+### breadboard construction
   
 Roughly speaking, I simply built up the circuit on the breadboard, changed components, added more subcircuits and generally tried things out until I liked the sounds. The concrete changes can be found in the `CHANGELOG.md`. I also recorded some audio samples and visualized them with the oscilloscope, which are on YouTube in my [*Drone o Tron* playlist](https://youtube.com/playlist?list=PLFoTc99xXplrwt37A0d1chDFaE8vJPAfo). A picture of the breadboard can also be found under `beadboard_steckbrett.HEIC`. I then created the previous schematic (`schematic_schaltplan.kicad_sch`) with the schematic and board creation software [KiCad](kicad.org/) for a better overview. A playlist with a simple basic tutorial can be found -> [here](https://www.youtube.com/playlist?list=PLFoTc99xXplq-vwjNqq9S3VKb1se5qiRt) <-
 
