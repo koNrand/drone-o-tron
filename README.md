@@ -1,6 +1,6 @@
 # *Drone o Tron*
 
-Für Neulinge: Lade dieses Repository herunter, um die Dateien zu benutzen. Ein Öffnen über den Browser funktioniert in der Regel nicht! Klicke dazu auf den grünen Button 'Code' und dann auf 'Sownload ZIP'.
+Für Neulinge: Lade dieses Repository herunter, um die Dateien zu benutzen. Ein Öffnen über den Browser funktioniert in der Regel nicht! Klicke dazu auf den grünen Button 'Code' und dann auf 'Download ZIP'.
 
 For newbies: Download this repository to use the files. Opening them via the browser usually does not work! Click on the green button 'Code' and then on 'Download ZIP'.
 
