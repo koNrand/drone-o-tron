@@ -1,4 +1,4 @@
-19821629244547667
+19823304181291617
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -55720,6 +55720,13 @@ SOP80P1033X265-36N
 36
 36
 Konradslibrary
+cinch_einbaubuchse_CBP_G
+
+
+0
+4
+2
+Konradslibrary
 push_button_8mm
 
 
@@ -55727,11 +55734,11 @@ push_button_8mm
 4
 4
 Konradslibrary
-rk_1212G_stereo_potentiometer
+rk_12L12_stereo_potentiometer
 
 
 0
-8
+6
 6
 Konradslibrary
 speaker_LSM-45F
