@@ -19,7 +19,8 @@ Als finalen Schritt im Projektmanagement und erste Hauptversion nach Simulation 
 
 Eine Auflistung aller Änderungen findet sich in der `CHANGELOG.md`.
 
-Die voll funktionsfähige Platine lässt sich für den eigenen Gebrauch mithilfe der `gerberfiles_drone_o_tron_v_1_0_rev0.zip`-Dateien und dem KiCad-Projekt finden. Die Platine lässt sich damit dann bei PCB-Produzenten wie JLCPCB bestellen. Eine interaktive Aufbauhilfe (`interactive_assembly_list.html`) in Form einer .html Datei ist auch vorhanden, sodass die benötigen Bauteile auch keine Hürde darstellen. Mögliche Händler hier sind LCSC, (zugehörig zu JLCPCB, einfachste Lösung) Mouser, Reichelt, TME, uvm.
+Die voll funktionsfähige Platine lässt sich für den eigenen Gebrauch mithilfe der `gerberfiles_v_1_0_rev1`-Ordner bestellen. EInfach die geünschte Version und dann bei PCB-Produzenten wie JLCPCB bestellen. Eine interaktive Aufbauhilfe (`interactive_assembly_list.html`) in Form einer .html Datei ist auch vorhanden, sodass die benötigen Bauteile auch keine Hürde darstellen.
+Mögliche Händler hier sind LCSC, (zugehörig zu JLCPCB, einfachste Lösung) Mouser, Reichelt, TME, uvm.
 
 ### Außer dem KiCadprojekt sind enthalten:
 - einige gerenderte Aufnahmen aus der 3D-Ansicht von KiCad, welche alle 3D-Bauteilmodelle, die Illustrationen und meien favorisierte Farbe für den Lötstoplack (lila) enthalten.
@@ -49,7 +50,7 @@ As a final step in the project management and first main version after simulatio
 
 A list of all changes can be found in the `CHANGELOG.md`.
 
-The fully functional board can be found for your own use with the help of the `gerberfiles_drone_o_tron_v_1_0_rev0.zip` files and the KiCad project. The board can then be ordered from PCB producers like JLCPCB. An interactive assembly help (`interactive_assembly_list.html`) in form of a .html file is also available, so that the needed components are no hurdle. Possible distributors here are LCSC, (belonging to JLCPCB, simpliest solution) Mouser, Reichelt, TME, and many more.
+The fully functional board can be found for your own use with the help of the `.gerberfiles_v_1_0_rev0` folder. Choose your favorite version and zip it. The board can then be ordered from PCB producers like JLCPCB. An interactive assembly help (`interactive_assembly_list.html`) in form of a .html file is also available, so that the needed components are no hurdle. Possible distributors here are LCSC, (belonging to JLCPCB, simpliest solution) Mouser, Reichelt, TME, and many more.
 
 ### Besides the KiCad project, included are:
 - some rendered shots from the 3D view of KiCad, containing all 3D component models, the illustrations and my favorite color for the solder mask (purple).
